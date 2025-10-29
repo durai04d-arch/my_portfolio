@@ -31,21 +31,21 @@ export interface PersonalInfo {
 // Durai's Personal Information
 export const DURAI_PERSONAL_INFO: PersonalInfo = {
   fullName: "Durai B",
-  dateOfBirth: "2003-06-15", // You can update this with Durai's actual birth date
+  dateOfBirth: "2007-05-26", 
   location: {
     city: "Cuddalore District",
     state: "Tamil Nadu",
     country: "India"
   },
   contact: {
-    email: "duraib@gmail.com",
-    phone: "+91 8770 6343"
+    email: "itsdurai04@gmail.com",
+    phone: "+91 6369704741"
   },
   education: {
     current: "Bachelor of Engineering in Computer Science",
     field: "Computer Science",
     specialization: "IoT (Internet of Things)",
-    graduationYear: 2025
+    graduationYear: 2028
   },
   languages: [
     { name: "Tamil", proficiency: "Native" },
