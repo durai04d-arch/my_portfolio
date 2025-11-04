@@ -67,6 +67,21 @@ const Projects = () => {
       status: "Completed",
       category: "IoT",
     },
+        {
+      title: "IoT Smart LIFT SYSTEM(RFID)",
+      description:
+        "Designed a secure RFID-based Lift access system with real-time monitoring, access logging, and remote control dashboard, combining IoT security, AI alerts, and automation intelligence.",
+      technologies: ["Frontend: React,TypeScript, Tailwind CSS ,Shadcn UI","Backend:Supabase PostgreSQL Real-time DB","Hardware: RFID Readers,IoT Sensors,Arduino/ESP32"],
+      type: "IoT Security",
+      features: [
+        "RFID Access Control",
+        "Real-time Monitoring",
+        "Access Logging",
+        "Remote Dashboard",
+      ],
+      status: "Completed",
+      category: "IoT",
+    },
     {
       title: "Billing System (Java)",
       description:
