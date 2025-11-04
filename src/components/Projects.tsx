@@ -51,6 +51,7 @@ const Projects = () => {
       ],
       status: "Completed",
       category: "IoT",
+      link:"https://core-innovator.vercel.app/"
     },
     {
       title: "IoT Smart Door Lock (RFID)",
@@ -81,6 +82,7 @@ const Projects = () => {
       ],
       status: "Completed",
       category: "IoT",
+      link: "https://ksrce-lift-guard.vercel.app/"
     },
     {
       title: "Billing System (Java)",
